@@ -1,0 +1,17 @@
+{
+    "title": "Renew Your Driving License",
+    "steps": [
+        {
+            "id": 1,
+            "text": "First check the expiration date of your driving license."
+        },
+        {
+            "id": 2,
+            "text": "Gather the required documents such as your current driving license, proof of identity, and any other necessary paperwork."
+        },
+        {
+            "id": 3,
+            "text": "Visit the relevant service point to submit your application for renewal."
+        }
+    ]
+}
